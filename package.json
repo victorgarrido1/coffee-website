@@ -1,0 +1,11 @@
+{
+  "name": "coffee-website",
+  "version": "1.0.0",
+  "description": "This project is a full-stack web application that showcases a coffeeshop website. A easy and simple site that demonstrates a team effort in the ASU Coding BootCamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
